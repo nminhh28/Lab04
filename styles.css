@@ -100,7 +100,8 @@ a {
 }
 
 img {
-  max-width: 100px;
+  width: 100px;
+  max-width: 30%;
   height: auto;
   display: block; 
   margin-left: auto;
