@@ -61,6 +61,7 @@ ol > ul {
 
 aside:hover {
   visibility: hidden;
+  font-weight: bold;
 }
 
 nav a {
