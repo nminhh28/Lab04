@@ -73,6 +73,7 @@ nav a {
 nav a:hover {
   background-color: lightblue;
   border-color: darkblue;
+  font-weight: bold;
 }
 
 table {
