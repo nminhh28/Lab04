@@ -68,14 +68,15 @@ nav a {
   padding: 10px;
   border: 2px solid transparent;
   display: inline-block;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 nav a:hover {
   background-color: lightblue;
   border-color: darkblue;
-  font-weight: bold;
+  font-weight: bold; 
 }
+
 
 table {
   border: 2px solid black;
