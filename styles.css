@@ -1,0 +1,86 @@
+h1 {
+  color:purple;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+* {
+  font-family: calabri, sans-serif;
+  color: #2F4F4F;
+}
+
+h2 {
+    color: rgb(0, 128, 128);
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+aside, footer {
+  font-style: italic;
+}
+
+h1, h2, h3 {
+  font-family: Arial, sans-serif;
+}
+
+table {
+  border: 1px solid black;
+}
+
+#images {
+  text-align: center;
+}
+
+#small-headings {
+  color: red;
+}
+
+.special {
+  color: darkorage;
+  font-weight: bold;
+}
+
+.alignment {
+   text-align: right;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 0.2em 0.6em;
+  border: 4px solid #ccc;
+}
+
+
+ul {
+  list-style-type: square;
+}
+
+ol > ul {
+   list-style-type: square;
+}
+
+aside:hover {
+  visibility: hidden;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 10px;
+  border: 2px solid transparent;  
+  display: inline-block;
+}
+
+nav a:hover {
+  background-color: lightblue;
+  border-color: darkblue;
+}
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse; /*avoid overlap*/
+}
+
+table th, table td {
+  border: 1px solid black;
+  padding: 8px; 
+}
