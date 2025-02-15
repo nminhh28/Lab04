@@ -85,6 +85,6 @@ table th, table td {
   padding: 8px; 
 }
 
-td {
+.price {
   font-style: italic;
 }
