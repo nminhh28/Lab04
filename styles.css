@@ -88,3 +88,11 @@ table th, table td {
 .price {
   font-style: italic;
 }
+
+#images {
+  text-align: center;
+}
+
+.images {
+  text-align: center;
+}
