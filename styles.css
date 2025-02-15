@@ -61,7 +61,6 @@ ol > ul {
 
 aside:hover {
   visibility: hidden;
-  font-weight: bold;
 }
 
 nav a {
@@ -75,9 +74,8 @@ nav a {
 nav a:hover {
   background-color: lightblue;
   border-color: darkblue;
-  font-weight: bold; 
+  font-weight: bold;
 }
-
 
 table {
   border: 2px solid black;
